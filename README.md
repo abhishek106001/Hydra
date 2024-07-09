@@ -1,9 +1,6 @@
 # HYDRA - TEXT ENCRYTED CHAT APPLICATION FOR SECURE COMMUNICATION
 ******************************************************************
-<div align="center">
-  ![OIG4](https://github.com/abhishek106001/Hydra/assets/124518628/b802da63-2111-4c30-b560-372c4d3124df)
-</div>
-
+![OIG4](https://github.com/abhishek106001/Hydra/assets/124518628/b802da63-2111-4c30-b560-372c4d3124df)
 <h1 align="center">Project Hydra</h1>
 <h3 align="center">Ensuring Unyielding Digital Security</h3>
 
