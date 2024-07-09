@@ -1,7 +1,7 @@
 # HYDRA - TEXT ENCRYTED CHAT APPLICATION FOR SECURE COMMUNICATION
 ******************************************************************
 <div align="center">
-  <img src="![OIG4](https://github.com/abhishek106001/Hydra/assets/124518628/349741a5-de79-4c9c-8a4e-d904831bfc2b)" alt="Project Hydra" />
+  ![OIG4](https://github.com/abhishek106001/Hydra/assets/124518628/b802da63-2111-4c30-b560-372c4d3124df)
 </div>
 
 <h1 align="center">Project Hydra</h1>
