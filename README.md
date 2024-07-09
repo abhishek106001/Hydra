@@ -1,6 +1,13 @@
 # HYDRA - TEXT ENCRYTED CHAT APPLICATION FOR SECURE COMMUNICATION
-------------------------------------------------------------------------------------------------------
-![OIG4](https://github.com/abhishek106001/Hydra/assets/124518628/bf15a8f2-e0af-4f71-8859-70710caf9032)
+******************************************************************
+<div align="center">
+  <img src="![OIG4](https://github.com/abhishek106001/Hydra/assets/124518628/bf15a8f2-e0af-4f71-8859-70710caf9032)" alt="Project Hydra" />
+</div>
+
+<h1 align="center">Project Hydra</h1>
+<h3 align="center">Ensuring Unyielding Digital Security</h3>
+
+
 ## Notice
 The error you are encountering suggests that there is a problem with establishing a connection to the server on localhost at port 4444. Here are some possible reasons for this error and their solutions:
 - **Server is not running:** Ensure that there is a server application running on localhost listening on port 4444. Without a running server, the client (your SocketExample program) cannot establish a connection.
