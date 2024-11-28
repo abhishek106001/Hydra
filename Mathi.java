@@ -78,7 +78,7 @@ public class Mathi extends Frame implements Runnable, ActionListener, KeyListene
         textArea.append(String.format("Mathi: %s%n", msg));
         textField.setText("");
 
-        try {   
+        try {
             dataOutputStream.writeUTF(msg);
             dataOutputStream.flush();
         } catch (IOException ex) {
