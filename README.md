@@ -1,4 +1,4 @@
-# HYDRA - TEXT ENCRYTED CHAT APPLICATION FOR SECURE COMMUNICATION
+`# HYDRA - TEXT ENCRYTED CHAT APPLICATION FOR SECURE COMMUNICATION`
 ******************************************************************
 <h1 align="center">Project Hydra</h1>
 <h3 align="center">Ensuring Unyielding Digital Security</h3>
