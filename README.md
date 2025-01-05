@@ -25,7 +25,9 @@
 - Each piece of text in this encryptor cache is securely protected, just like the many heads of the Hydra provided defense.
 
 
-
+## Solution:
+- Chat Application with Advanced Encryption..!
+- 
 
 
 
