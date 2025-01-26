@@ -1,4 +1,3 @@
-Server Update
 # <h1 align="center"> HYDRA - TEXT ENCRYTOR FOR CHAT APPLICATION ENABLING SECURE COMMUNICATION </h1>
 ******************************************************************
 <h1 align="center">Project Hydra</h1>
@@ -11,12 +10,9 @@ Server Update
 <img src="https://github.com/user-attachments/assets/01dba096-4250-436f-b582-da896a6e4575" width="500">
 </div>
 
-
-
-
-
-
-
+## Solution:
+- Chat Application with Advanced Encryption..!
+- That enables the User to tex the messages in an Encrypted manner.
 
 ## Hydra
 ## Name-Description:
@@ -24,15 +20,6 @@ Server Update
 
 - Hydra, named after a mythical **serpent with many heads, symbolizes strong protection.**
 - Each piece of text in this encryptor cache is securely protected, just like the many heads of the Hydra provided defense.
-
-
-## Solution:
-- Chat Application with Advanced Encryption..!
-- 
-
-
-
-
 
 
 
