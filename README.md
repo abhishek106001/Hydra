@@ -8,6 +8,7 @@
 <div align = centre>
 <img src="https://github.com/user-attachments/assets/01dba096-4250-436f-b582-da896a6e4575" width="500">
 </div>
+
 - While existing chat platforms implement security measures like application and device locks, these features fail to prevent unauthorized access in cases of stolen or unlocked devices.
 
 ![image](https://github.com/user-attachments/assets/1b3fa1fa-494f-400d-b75b-4cd35ae6d1de)
