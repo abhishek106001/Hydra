@@ -16,6 +16,7 @@
 ## Solution:
 - Chat Application with Advanced Encryption..!
 - That enables the User to tex the messages in an Encrypted manner.
+- Our Application  transfers the data from the server to the client in an encrypted way..!
 
 ## Hydra
 ## Name-Description:
